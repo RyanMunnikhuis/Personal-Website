@@ -1,0 +1,16 @@
+---
+title: "Ryan Munnikhuis"
+image: "headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/rmunnikh/"
+  - label: GitHub
+    url: "https://github.com/RyanMunnikhuis"
+  - label: Email
+    url: "rmunnikh@gmail.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+Hi there! 

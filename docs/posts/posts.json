@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-08-10-welcome/",
+    "title": "welcome",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Ryan Munnikhuis",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-10",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-10T23:05:38-07:00",
+    "input_file": {}
+  }
+]
