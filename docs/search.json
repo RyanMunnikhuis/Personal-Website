@@ -6,28 +6,28 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-12T15:13:09-07:00"
+      "last_modified": "2021-12-01T22:22:11-08:00"
     },
     {
       "path": "blog.html",
       "title": "First Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-12T15:13:10-07:00"
+      "last_modified": "2021-12-01T22:22:12-08:00"
     },
     {
       "path": "CV.html",
       "title": "CV",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-12T15:13:10-07:00"
+      "last_modified": "2021-12-01T22:22:12-08:00"
     },
     {
       "path": "index.html",
       "title": "Ryan Munnikhuis",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Ryan Munnikuis\r\n          \r\n          \r\n          Home\r\n          About\r\n          CV\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Ryan Munnikhuis\r\n          \r\n          \r\n            \r\n              Hi there!\r\n            \r\n            \r\n              Hi there!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-08-12T15:13:11-07:00"
+      "last_modified": "2021-12-01T22:22:12-08:00"
     }
   ],
   "collections": ["posts/posts.json"]
