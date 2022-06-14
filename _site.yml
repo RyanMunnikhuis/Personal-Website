@@ -8,7 +8,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume/Munnikhuis_Ryan_Resume_Website.pdf
+      href: resume/Munnikhuis_Ryan_Resume.pdf
     - text: "Blog"
       href: blog.html
 output: distill::distill_article
