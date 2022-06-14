@@ -6,11 +6,23 @@ links:
     url: "https://www.linkedin.com/in/rmunnikh/"
   - label: GitHub
     url: "https://github.com/RyanMunnikhuis"
+  - label: Capstone Repository
+    url: "https://github.com/MEDSsnowtoday"
+  - label: Technical Documentation
+    url: "https://medssnowtoday.github.io/Technical_Documentation/index.html"
   - label: Email
-    url: "rmunnikh@gmail.com"
+    url: "mailto:rmunnikh@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
+  
 site: distill::distill_website
 ---
- 
-Hi there! 
+
+
+## Hi there! 
+
+I am a master of environmental data science (MEDS) graduate from UC Santa Barbara (UCSB), where I learned to integrate programmatic geospatial and statistical analysis into the environmental field. The MEDS program has taught me to appreciate open-source learning and the value of reproducible workflows. 
+
+My capstone project is helping to increase the accessibility and usability of the National Snow & Ice Data Center (NSIDC) Snow Today website through web-based visualizations and in-depth and comprehensive Python tutorials for using snow and albedo datasets. Please use the "Capstone Repository" and "Technical Documentation" links if you want to learn more about my capstone project.
+
+
