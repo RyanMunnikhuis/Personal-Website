@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "Blog Posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-14T16:15:10-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ryan Munnikhuis",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Ryan Munnikuis\r\n          \r\n          \r\n          Home\r\n          Resume\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ryan Munnikhuis\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Capstone Repository\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Technical Documentation\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Hi there!\r\n            I am a master of environmental data science (MEDS)\r\n            graduate from UC Santa Barbara (UCSB), where I learned to\r\n            integrate programmatic geospatial and statistical analysis\r\n            into the environmental field. The MEDS program has taught me\r\n            to appreciate open-source learning and the value of\r\n            reproducible workflows.\r\n            My capstone project is helping to increase the\r\n            accessibility and usability of the National Snow & Ice\r\n            Data Center (NSIDC) Snow Today website through web-based\r\n            visualizations and in-depth and comprehensive Python\r\n            tutorials for using snow and albedo datasets. Please use the\r\n            “Capstone Repository” and “Technical Documentation” links if\r\n            you want to learn more about my capstone project.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ryan Munnikhuis\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Capstone Repository\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Technical Documentation\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Hi there!\r\n              I am a master of environmental data science (MEDS)\r\n              graduate from UC Santa Barbara (UCSB), where I learned to\r\n              integrate programmatic geospatial and statistical analysis\r\n              into the environmental field. The MEDS program has taught\r\n              me to appreciate open-source learning and the value of\r\n              reproducible workflows.\r\n              My capstone project is helping to increase the\r\n              accessibility and usability of the National Snow & Ice\r\n              Data Center (NSIDC) Snow Today website through web-based\r\n              visualizations and in-depth and comprehensive Python\r\n              tutorials for using snow and albedo datasets. Please use\r\n              the “Capstone Repository” and “Technical Documentation”\r\n              links if you want to learn more about my capstone\r\n              project.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-06-14T16:15:10-07:00"
+    },
+    {
+      "path": "Resume.html",
+      "title": "Resume",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-14T16:15:11-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
