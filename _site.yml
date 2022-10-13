@@ -11,5 +11,7 @@ navbar:
       href: resume/Munnikhuis_Ryan_Resume.pdf
     - text: "Blog"
       href: blog.html
+    - text: "Sample Visualizations"
+      href: visuals/albedo_figure.html
 output: distill::distill_article
 theme: theme.css
